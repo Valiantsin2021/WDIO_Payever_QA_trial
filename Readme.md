@@ -27,7 +27,7 @@ The test-cases that should be automated and validated are as followed:
 2. After step 7, validate the following apps to be present on the dashboard:
 - Transactions, Checkout, Connect, Products, Shop, Message, settings
 
-# Message app is not present on the Dashboard therefor the validation hase not been performed
+# Message app is not present on the Dashboard therefore the validation has not been performed
 
 ## Test suite 2
 

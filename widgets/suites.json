@@ -1,1 +1,1 @@
-{"total":2,"items":[{"uid":"0fe5fe8aac3a5fa64cc6b3563a7daa99","name":"Should open https://commerceos.staging.devpayever.com/registration/fashion and","statistic":{"failed":0,"broken":0,"skipped":0,"passed":11,"unknown":0,"total":11}},{"uid":"c04985b30f8c52660e677bc1d68cad39","name":"Should open https://commerceos.staging.devpayever.com/registration/santander and","statistic":{"failed":0,"broken":0,"skipped":0,"passed":10,"unknown":0,"total":10}}]}
+{"total":0,"items":[]}
